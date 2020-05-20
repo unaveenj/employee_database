@@ -1,4 +1,4 @@
-# employee_database
+# Employee Database System
 Simple database system writen in C++
 The program was written for Turbo C. 
 You can download fully working Turbo c from the following :
